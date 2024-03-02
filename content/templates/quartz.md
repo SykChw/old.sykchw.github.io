@@ -1,8 +1,7 @@
 ---
 title:
 draft: false
-tags:
-  - blog
+date: 
 ---
 
 
