@@ -1,6 +1,5 @@
 ---
 title: About Me
 draft: false
-tags:
-  - blog
+date: 2023-03-02
 ---
