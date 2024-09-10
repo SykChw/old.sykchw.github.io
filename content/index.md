@@ -15,3 +15,7 @@ I also maintain a secondary blog at <a href="https://sykchw.bearblog.dev/">elect
 
 You can find my blogs [[✍️ blog/index|here]].
 
+<script src="https://your-hosted-script-url.js"></script>
+<script>
+  loadRSSFeed('https://sykchw.bearblog.dev/feed/?type=rss', 'rss-feed-widget');
+</script>
