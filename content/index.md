@@ -14,3 +14,4 @@ You can reach out to me via <a href="mailto:sykchw123@gmail.com">mail</a> or fin
 I also maintain a secondary blog at <a href="https://sykchw.bearblog.dev/">electric brains 🧠</a>, which is mainly to record byte size chunks of exposition about things that catch my fancy and/or other random content that I may be feeling like writing. So in case you are not able to find some content here, you might be able to find it there. This blog contains mostly the longer length technical expositions that I document for my day-to-day benefit.
 
 You can find my blogs [[✍️ blog/index|here]].
+
