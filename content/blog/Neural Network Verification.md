@@ -169,7 +169,7 @@ $$
 $r_1$ and  $r_2$ are vectors whose elements are probabilities for a belonging to a class with labels corresponding to the indexes. $class(r_1)$ and  $class(r_2)$ extract the indexes corresponding to the largest elements of the vectors $r_1$ and  $r_2$ respectively.  
 
 >[!info]
-Counterexamples: Valuations of variables in precondition that falsifies the post condition.
+>Counterexamples: Valuations of variables in precondition that falsifies the post condition.
 
 
 ```mermaid
