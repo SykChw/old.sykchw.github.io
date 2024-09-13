@@ -1730,19 +1730,3 @@ $$
 \lVert f(x) - f(y) \rVert_2 \le K \lVert x -y \rVert_2
 $$ 
 The smallest K satisfying the above is called the Lipschitz constant of $f$. If we can bound K, then we can prove $l_2$-robustness of $f$.
-
-<script src="https://giscus.app/client.js"
-        data-repo="sykchw/sykchw.github.io"
-        data-repo-id="R_kgDOLamRtQ"
-        data-category="Announcements"
-        data-category-id="DIC_kwDOLamRtc4CidVh"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="bottom"
-        data-theme="preferred_color_scheme"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
