@@ -12,6 +12,24 @@ export const sharedPageComponents: SharedLayout = {
       LinkedIn : "https://www.linkedin.com/in/sykchw/",
     },
   }),
+  afterBody: [
+    Component.Comments({
+      provider: 'giscus',
+      options: {
+        // from data-repo
+        repo: 'sykchw/sykchw.github.io',
+        // from data-repo-id
+        repoId: 'R_kgDOLamRtQ',
+        // from data-category
+        category: 'Announcements',
+        // from data-category-id
+        categoryId: 'DIC_kwDOLamRtc4CidVh',
+        // whether to enable reactions for the main post
+        // defaults to true
+        reactionsEnabled?: true
+      }
+    }),
+  ],
 }
 
 // components for pages that display a single page (e.g. a single note)
