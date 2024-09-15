@@ -2,6 +2,7 @@
 title: Neural Network Verification
 draft: false
 date: 2024-03-27
+author: Sayak Chowdhury
 ---
 # Motivation
 
