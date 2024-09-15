@@ -1,5 +1,5 @@
 ---
-title: Convex Sets and an Interesting Result
+title: Convex Sets and Polynomials
 draft: false
 date:
 ---
