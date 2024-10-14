@@ -91,17 +91,17 @@ $$
 Adding both, we have:
 
 $$
-
 \begin{align*}
 
-&\theta G(x) + (1 - \theta) H(x) = \theta g_0 + (1 - \theta)h_0 + \theta g_1x + (1 - \theta)h_1x + \theta g_2x^2 + (1 - \theta)h_2x^2 + \dots + \theta g_n x^n + (1 - \theta)h_n x^n \\
-
-&\theta G(x) + (1 - \theta)H(x) = (\theta g_0 + (1 - \theta)h_0) + (\theta g_1 + (1 - \theta)h_1)x + (\theta g_2 + (1 - \theta)h_2)x^2 + \dots + (\theta g_n + (1 - \theta)h_n)x^n \\
-
-&K(x) = \theta G(x) + (1 - \theta)H(x) = \underbrace{(\theta g_0 + (1 - \theta)h_0)}_{k_0} + \underbrace{(\theta g_1 + (1 - \theta)h_1)}_{k_1}x + \underbrace{(\theta g_2 + (1 - \theta)h_2)}_{k_2}x^2 + \dots + \underbrace{(\theta g_n + (1 - \theta)h_n)}_{k_n}x^n
+&\theta G(x) + (1 - \theta) H(x) =& \theta g_0 + (1 - \theta)h_0 + \theta g_1x + (1 - \theta)h_1x + \theta g_2x^2 + \\
+& &(1 - \theta)h_2x^2 + \dots + \theta g_n x^n + (1 - \theta)h_n x^n \\
+\\
+&\theta G(x) + (1 - \theta)H(x) =& (\theta g_0 + (1 - \theta)h_0) + (\theta g_1 + (1 - \theta)h_1)x + \\
+& &(\theta g_2 + (1 - \theta)h_2)x^2 + \dots + (\theta g_n + (1 - \theta)h_n)x^n \\
+\\
+&K(x) = \theta G(x) + (1 - \theta)H(x) =& \underbrace{(\theta g_0 + (1 - \theta)h_0)}_{k_0} + \underbrace{(\theta g_1 + (1 - \theta)h_1)}_{k_1}x + \\ & &\underbrace{(\theta g_2 + (1 - \theta)h_2)}_{k_2}x^2 + \dots + \underbrace{(\theta g_n + (1 - \theta)h_n)}_{k_n}x^n
 
 \end{align*}
-
 $$
 
 By restructuring the resultant polynomial, we have:
