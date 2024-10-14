@@ -7,7 +7,7 @@ date:
 # A Primer on Convex Sets
 <figure>
 
-<img src="https://raw.githubusercontent.com/SykChw/sykchw.github.io/v4/content/images/convex.png" alt="Convex Shapes" class="center">
+<img src="https://raw.githubusercontent.com/SykChw/old.sykchw.github.io/v4/content/images/convex.png" alt="Convex Shapes" class="center">
 
 </figure>
 
@@ -20,7 +20,7 @@ For convex shapes, if two points are present inside the shape, every point lying
 
 <figure>
 
-<img src="https://raw.githubusercontent.com/SykChw/sykchw.github.io/v4/content/images/concave.png" alt="Concave Shapes" class="center">
+<img src="https://raw.githubusercontent.com/SykChw/old.sykchw.github.io/v4/content/images/concave.png" alt="Concave Shapes" class="center">
 
 </figure>
 
@@ -32,7 +32,7 @@ Convex Sets are similarly sets of vectors that contains every vector on the stra
 
 <figure>
 
-<img src="https://raw.githubusercontent.com/SykChw/sykchw.github.io/v4/content/images/convexset.png" alt="Convex Sets" class="center">
+<img src="https://raw.githubusercontent.com/SykChw/old.sykchw.github.io/v4/content/images/convexset.png" alt="Convex Sets" class="center">
 
 </figure>
 
@@ -43,7 +43,7 @@ Thus any vector $X = A + \theta (B -A)$, where $0 \le \theta \le 1$, lies on the
 
 <figure>
 
-<img src="https://raw.githubusercontent.com/SykChw/sykchw.github.io/v4/content/images/noholes.png" alt="No Holes" class="center">
+<img src="https://raw.githubusercontent.com/SykChw/old.sykchw.github.io/v4/content/images/noholes.png" alt="No Holes" class="center">
 
 </figure>
 
