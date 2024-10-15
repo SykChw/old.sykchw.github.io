@@ -1489,8 +1489,12 @@ then, $\forall r \in I^\prime, \ \ class(r) = y$
 
 If $y$-th interval is larger than all others, then we know that the classification is always $y$. 
 
-Note: if $l_y \le u_i$ for some $i \not = y$, then we cannot disprove this property, so this is a one-sided check. In simpler words, since we will be receiving a range of probabilities corresponding to each of the class indices. We will be choosing the class whose lower bound probability ($l_y$) is higher than all other upper bounds of all other class ($u_i$). We will be picking the non-overlapping bound with highest lower bound. If there is any overlap between the range of probabilities, we cannot be entirely sure as to which class the resulting probability belongs to inside of the overlapping region. Thus making this is a one-sided check.
+> [!note]
+>
+> If $l_y \le u_i$ for some $i \not = y$, then we cannot disprove this property, so this is a one-sided check. In simpler words, since we will be receiving a range of probabilities corresponding to each of the class indices. We will be choosing the class whose lower bound probability ($l_y$) is higher than all other upper bounds of all other class ($u_i$). We will be picking the non-overlapping bound with highest lower bound. If there is any overlap between the range of probabilities, we cannot be entirely sure as to which class the resulting probability belongs to inside of the overlapping region. Thus making this is a one-sided check.
+
 ![[verifyabsint.png | center]] 
+
 **Example:**
 
 $f^a(I) = I^\prime = ([0.1, 0.2], [0.3, 0.4])$
