@@ -56,7 +56,7 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"],
       }),
       Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.Citations({bibliographyFile: "./content/References.bib"}),
+      Plugin.Citations({bibliographyFile: "./content/blog/References.bib"}),
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
