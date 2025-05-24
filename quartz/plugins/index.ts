@@ -33,3 +33,7 @@ declare module "vfile" {
     relativePath: FilePath
   }
 }
+
+//export function Citations(arg0: { bibliographyFile: string }): import("./types").QuartzTransformerPluginInstance {
+//  throw new Error("Function not implemented.")
+//}
